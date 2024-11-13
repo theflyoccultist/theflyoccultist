@@ -2,7 +2,7 @@
 
 <h2>👋 Hi there! My name is Rin</h2>
 
-I am a fullstack developer specializing in React, Node.js, postgresql and Express.js; my main programming language is Typescript. I love coding because it poses everyday a new challenge, allowing me to continuously learn through making new projects. From making backend APIs to user-friendly interfaces, I love both sides of web development.🌱 I’m currently also getting into Machine Learning, and exploring its possibilities to enrich my apps with its features.
+I am a fullstack developer specializing in React, Node.js, postgresql and Express.js. I mainly use Typescript to write my applications. I love coding because of the constantly new exciting challenges, allowing me to continuously learn something new. From making backend APIs to user-friendly interfaces, I love both sides of web development.🌱 I’m currently also getting into Machine Learning, and exploring how to apply those principles.
 
 Want to work together or just have a conversation? Let's connect, and explore the possibilities!
 
