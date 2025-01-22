@@ -2,9 +2,9 @@
 
 <h2>👋 Hi there! My name is Rin</h2>
 
-I am a Systems Integration, AI, and Network Engineer in the making. My passion lies in creating robust, efficient, and scalable solutions, whether that's writing low-level systems in C and Rust, or integrating complex network and AI systems.
+I am a <strong>Systems Integration, AI, and Network Engineer</strong> in the making. My passion lies in creating robust, efficient, and scalable solutions, whether that's writing low-level systems in C and Rust, or integrating complex network and AI systems.
 
-💻 While I started as a <strong>fullstack developer<strong>, specializing in React, Node.js and TypeScript, my current focus has shifted toward:
+💻 While I started as a <strong>fullstack developer</strong>, specializing in React, Node.js and TypeScript, my current focus has shifted toward:
  - Systems Programming: Diving deep into C and Rust to build reliable, high-performance software.
  - Network Engineering: Exploring the art of connecting systems seamlessly.
  - Artificial Intelligence: Bridging the gap between machine learning principles and practical implementation.
