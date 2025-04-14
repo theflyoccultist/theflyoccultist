@@ -15,4 +15,4 @@ I am a <strong>Systems Integration, AI, and Network Engineer</strong> in the mak
 
 📬 Want to collaborate or chat? Let’s connect and explore how we can create something amazing together! 🚀
 
-<a href="https://www.rinkakuworks.com/">Link to my portfolio</a>
+<a href="https://rinkakuworks.com/">Link to my portfolio</a>
