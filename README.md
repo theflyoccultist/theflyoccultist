@@ -36,4 +36,5 @@ ANTI::AUTHORITARIANISM | ANTI::ESTABLISHMENT | ANTI::CONSUMERISM;
 ### Least Favorite Things
 
 - Transphobes and Homophobes
-- Programming and Technology from the 2020's
+- Twitter (formerly known as X)
+- Programming in the 2020's, and Technology from the 2020's
