@@ -1,3 +1,9 @@
-I am not a professionnal, at least at the moment. Currently focusing on C++ to land a role in embedded development in a couple of years and practicing by making various kinds of systems projects. I have a keen interest in game and audio engines, but do like to step out of that comfort zone as well.
+RINKAKU WORKS - THEFLYOCCULTIST
 
-<a href="https://rinkakuworks.com/">Link to my portfolio</a>
+SYSTEMS PROGRAMMING && SOFTWARE FOR HUMANS BY HUMANS
+
+LET BEAUTIFUL THINGS TAKE TIME TO TAKE SHAPE, LIKE THE CATERPILLAR BEFORE IT TURNS INTO MOTH
+
+<img width="1200" height="645" alt="moth" src="https://github.com/user-attachments/assets/c2ff056d-cf81-4d54-84c7-b2d2ea77dca7" />
+
+ANTI-AUTHORITARIANISM | ANTI-ESTABLISHMENT | ANTI-CONSUMERISM
