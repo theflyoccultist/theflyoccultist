@@ -37,8 +37,9 @@ Follow my last fm: [theflyoccultist](https://www.last.fm/user/theflyoccultist)
 
 ### Favorite Things
 
-- C++, Common Lisp and Haskell
+- Mathematics, C++, Common Lisp and Haskell
 - Music Listening and Music Production
+- Makeup and Clothing
 - Bugs, Moths, Birds and Butterflies
 
 ### Least Favorite Things
