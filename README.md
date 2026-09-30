@@ -16,6 +16,8 @@ ANTI::AUTHORITARIANISM | ANTI::ESTABLISHMENT | ANTI::CONSUMERISM;
 
 <img width="178" height="178" alt="anim" src="https://github.com/user-attachments/assets/178c7827-a135-450c-ad67-cf6fef96402c" />
 
+Follow my last fm: [theflyoccultist](https://www.last.fm/user/theflyoccultist)
+
 ### Favorite Bands
 
 - Autechre
@@ -33,8 +35,13 @@ ANTI::AUTHORITARIANISM | ANTI::ESTABLISHMENT | ANTI::CONSUMERISM;
 - Crisps with spicy flavor
 - Desserts with coffee flavor
 
+### Favorite Things
+
+- C++, Common Lisp and Haskell
+- Music Listening and Music Production
+- Bugs, Moths, Birds and Butterflies
+
 ### Least Favorite Things
 
-- Transphobes and Homophobes
-- Twitter (formerly known as X)
+- C++
 - Programming in the 2020's, and Technology from the 2020's
